@@ -1,0 +1,9 @@
+C:\Users\Даниил\source\repos\prrr\bin\Debug\prrr.exe.config
+C:\Users\Даниил\source\repos\prrr\bin\Debug\prrr.exe
+C:\Users\Даниил\source\repos\prrr\bin\Debug\prrr.pdb
+C:\Users\Даниил\source\repos\prrr\obj\Debug\prrr.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\prrr\obj\Debug\prrr.Form1.resources
+C:\Users\Даниил\source\repos\prrr\obj\Debug\prrr.Properties.Resources.resources
+C:\Users\Даниил\source\repos\prrr\obj\Debug\prrr.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\prrr\obj\Debug\prrr.exe
+C:\Users\Даниил\source\repos\prrr\obj\Debug\prrr.pdb
